@@ -13,3 +13,8 @@ I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This
 ## Internal Process
 
 - [ ] Notify the xyz team that you intend to use this project
+fWhat is the purpose of this repository?
+Who should someone contact if they have questions?
+How should someone make contact if they have questions?
+What are the first steps to getting started open sourcing a project?
+How does this repository relate to other projects and business goals?
