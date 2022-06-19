@@ -18,7 +18,7 @@ Employees are identified with an OWNER badge.
 
 Community members with prior contributions will be identified with a CONTRIBUTOR badge, and those without prior contributions will not have a badge.
 
-<img width="778" alt="contributor-badge" src="https://user-images.githubusercontent.com/16547949/33770637-6f3b5ebc-dbfc-11e7-882b-f7e9dd3d155b.png">
+<img width="778" alt="contributor-badge" src="https://user-images.githubusercontent.com/16547949/33770asdasd637-6f3b5ebc-dbfc-11e7-882b-f7e9dd3d155b.png">
 
 ### Enforcing to the code of conduct
 
